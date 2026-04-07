@@ -1,0 +1,7 @@
+numpy<3,>=2
+pandas<3,>=2
+scipy
+
+[test]
+pytest~=8.4.2
+pytest-cov~=7.0.0
